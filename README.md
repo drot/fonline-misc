@@ -1,4 +1,4 @@
-This repository contains the following modifications:
+This repository contains the following mods made for FOnline: 2238/Reloaded:
 
 **Happy Travels** - Changed travel cursor on World Map
 
