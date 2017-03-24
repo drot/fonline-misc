@@ -1,21 +1,21 @@
 This repository contains the following modifications:
 
-Happy Travels - Changed travel cursor on World Map
+**Happy Travels** - Changed travel cursor on World Map
 
-HiCursor - Modified hex cursor for better visibility
+**HiCursor** - Modified hex cursor for better visibility
 
-HiFootlockers - Highlighted footlockers
+**HiFootlockers** - Highlighted footlockers
 
-HiItems - Highlighted ground items
+**HiItems** - Highlighted ground items
 
-HiItems2 - Highlighted ground items (specifically for FOnline: Reloaded)
+**HiItems2** - Highlighted ground items (specifically for FOnline: Reloaded)
 
-PureEvil - Updated Pure Evil interface by Doctor Eex
+**PureEvil** - Updated Pure Evil interface by Doctor Eex
 
-RasInterface - Updated Ras Interface CLEAN by Ras
+**RasInterface** - Updated Ras Interface CLEAN by Ras
 
-rmroofs - Modification to remove roof tiles only
+**rmroofs** - Modification to remove roof tiles only
 
-RSTW - Modification to remove roof and wall tiles
+**RSTW** - Modification to remove roof and wall tiles
 
-TTUI - Updated TINY TANK Interface by Jinxed Jack
+**TTUI** - Updated TINY TANK Interface by Jinxed Jack
