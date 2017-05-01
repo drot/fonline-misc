@@ -19,3 +19,5 @@ This repository contains the following mods made for FOnline: 2238/Reloaded:
 **RSTW** - Modification to remove roof and wall tiles
 
 **TTUI** - Updated TINY TANK Interface by Jinxed Jack
+
+**TTUIC** - Updated TINY TANK Interface, Combat version by Jinxed Jack

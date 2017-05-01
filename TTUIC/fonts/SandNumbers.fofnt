@@ -1,0 +1,79 @@
+Image	SandNumbers.png			
+YAdvance	0			
+				
+Letter	32	#	'	'
+	PositionX	1		
+	PositionY	1		
+	XAdvance	289		
+				
+Letter	48	#	'0'
+	PositionX	1		
+	PositionY	1		
+	Width	288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	49	#	'1'
+	PositionX	1		
+	PositionY	1		
+	Width288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	50	#	'2'
+	PositionX	1		
+	PositionY	27		
+	Width	288
+	Height	11		
+	XAdvance	288		
+				
+Letter	51	#	'3'
+	PositionX	1		
+	PositionY	40		
+	Width	288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	52	#	'4'
+	PositionX	1		
+	PositionY	53		
+	Width 288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	53	#	'5'
+	PositionX	1		
+	PositionY	66		
+	Width	288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	54	#	'6'
+	PositionX	1		
+	PositionY	79
+	Width	288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	55	#	'7'
+	PositionX	1		
+	PositionY	92		
+	Width	288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	56	#	'8'
+	PositionX	1		
+	PositionY	136
+	Width	288		
+	Height	11		
+	XAdvance	288		
+				
+Letter	57	#	'9'
+	PositionX	1		
+	PositionY	151		
+	Width	288		
+	Height	11		
+	XAdvance	288	
+				
+				
